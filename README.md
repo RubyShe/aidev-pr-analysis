@@ -15,9 +15,6 @@ After downloading, place the data under:
 
 data/raw/
 
-shell
-Copy code
-
 ## Project Structure
 
 scripts/ # data extraction and preprocessing
@@ -25,9 +22,6 @@ analysis/ # RQ-specific analysis scripts
 notebooks/ # exploratory analysis
 results/ # generated tables and figures
 data/ # raw and processed data (not tracked in git)
-
-markdown
-Copy code
 
 ## Reproducing the Results
 
