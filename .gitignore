@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.log
+# large artifacts hosted on Zenodo, not GitHub
+cached/rq3/rq4_all_comments_labeled.csv
+cached/rq4/pr_files_cache.jsonl
