@@ -1,0 +1,6 @@
+agent,events_total,AI_event_%,human_event_%,unique_reviewers,AI_unique_%,human_unique_%
+Claude_Code,9344,73.96,26.04,382,2.88,97.12
+Copilot,104223,51.18,48.82,5006,0.2,99.8
+Cursor,16995,83.1,16.9,635,1.73,98.27
+Devin,23430,15.74,84.26,1197,0.92,99.08
+OpenAI_Codex,99500,86.97,13.03,3216,0.47,99.53

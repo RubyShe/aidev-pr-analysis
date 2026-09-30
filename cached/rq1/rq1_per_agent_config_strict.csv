@@ -1,0 +1,6 @@
+agent,No review,AI review,Human review,AI+Human review,No review %,AI review %,Human review %,AI+Human review %
+Claude_Code,3714,644,238,139,78.44,13.6,5.03,2.94
+Copilot,30673,4383,9014,5770,61.54,8.79,18.09,11.58
+Cursor,28707,3362,618,254,87.15,10.21,1.88,0.77
+Devin,23626,652,5025,441,79.43,2.19,16.89,1.48
+OpenAI_Codex,783740,24808,4733,1244,96.22,3.05,0.58,0.15

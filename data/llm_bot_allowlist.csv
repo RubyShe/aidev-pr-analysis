@@ -1,0 +1,90 @@
+user,is_llm_based,category,notes
+Copilot,True,ai_agent,GitHub Copilot - AI coding agent with agentic capabilities by Microsoft
+copilot-pull-request-reviewer[bot],True,ai_agent,GitHub Copilot PR reviewer - agentic coding assistant by Microsoft
+copilot-swe-agent[bot],True,ai_agent,GitHub Copilot SWE agent - agentic coding agent by Microsoft
+cursor[bot],True,ai_agent,Cursor - AI coding agent with agentic capabilities by Anysphere
+claude[bot],True,ai_agent,Claude Code - AI coding agent with agentic capabilities by Anthropic
+claudeai-v1[bot],True,ai_agent,Claude AI v1 - AI coding agent by Anthropic
+devin-ai-integration[bot],True,ai_agent,Devin - autonomous AI software engineer by Cognition AI
+windsurf-bot[bot],True,ai_agent,Windsurf - AI coding agent by Codeium
+openhands-ai[bot],True,ai_agent,OpenHands - autonomous AI coding agent (formerly OpenDevin)
+rover-app[bot],True,ai_agent,Rover - AI coding agent manager (Claude Code/Cursor/Gemini/Codex) by Endor
+lingma-agents[bot],True,ai_agent,Alibaba Lingma - AI coding agent by Alibaba
+coderabbitai[bot],True,llm_code_review,CodeRabbit - AI agent reviewer per Zhong et al. 2026 - see coderabbit.ai
+gemini-code-assist[bot],True,llm_code_review,Gemini Code Assist - AI agent reviewer per Zhong et al. 2026 - by Google
+sourcery-ai[bot],True,llm_code_review,Sourcery - AI agent reviewer per Zhong et al. 2026 - see sourcery.ai
+greptile-apps[bot],True,llm_code_review,Greptile - AI agent reviewer per Zhong et al. 2026 - see greptile.com
+qodo-merge-pro[bot],True,llm_code_review,Qodo Merge Pro - AI agent reviewer per Zhong et al. 2026 - by Qodo
+qodo-merge-for-open-source[bot],True,llm_code_review,Qodo Merge - AI agent reviewer per Zhong et al. 2026 - by Qodo
+bito-code-review[bot],True,llm_code_review,Bito - AI agent reviewer per Zhong et al. 2026 - see bito.ai
+chatgpt-codex-connector[bot],True,llm_code_review,OpenAI ChatGPT/Codex connector - AI agent reviewer per Zhong et al. 2026
+gemini-review-bot[bot],False,llm_code_review,Gemini review bot - excluded not in Zhong et al. list
+amazon-q-developer[bot],False,llm_code_review,Amazon Q Developer - excluded not in Zhong et al. list
+q-developer-beta-1[bot],False,llm_code_review,Amazon Q Developer beta - excluded not in Zhong et al. list
+korbit-ai[bot],False,llm_code_review,Korbit - excluded not in Zhong et al. list
+codereviewbot-ai[bot],False,llm_code_review,CodeReviewBot - excluded not in Zhong et al. list
+ellipsis-dev[bot],False,llm_code_review,Ellipsis - excluded not in Zhong et al. list
+cubic-dev-ai[bot],False,llm_code_review,Cubic - excluded not in Zhong et al. list
+entelligence-ai-pr-reviews[bot],False,llm_code_review,Entelligence AI - excluded not in Zhong et al. list
+baz-reviewer[bot],False,llm_code_review,Baz Reviewer - excluded not in Zhong et al. list
+baz-reviewer-dev[bot],False,llm_code_review,Baz Reviewer dev - excluded not in Zhong et al. list
+mentatbot[bot],False,llm_code_review,Mentat - excluded not in Zhong et al. list
+kodus-ai[bot],False,llm_code_review,Kodus - excluded not in Zhong et al. list
+codiumai-pr-agent-free[bot],False,llm_code_review,CodiumAI PR Agent - excluded not in Zhong et al. list
+llamapreview[bot],False,llm_code_review,LlamaPreview - excluded not in Zhong et al. list
+codeant-ai[bot],False,llm_code_review,CodeAnt AI - excluded not in Zhong et al. list
+bismuthdev[bot],False,llm_code_review,Bismuth - excluded not in Zhong et al. list
+code-review-doctor[bot],False,llm_code_review,Code Review Doctor - excluded not in Zhong et al. list
+archie-ai-code-explain-pr-review[bot],False,llm_code_review,Archie AI - excluded not in Zhong et al. list
+hoji-ai[bot],False,llm_code_review,Hoji AI - excluded not in Zhong et al. list
+wispbit-ai[bot],False,llm_code_review,Wispbit - excluded not in Zhong et al. list
+matter-code-review[bot],False,llm_code_review,Matter - excluded not in Zhong et al. list
+pr-agent-monadical[bot],False,llm_code_review,PR Agent Monadical - excluded not in Zhong et al. list
+agent-optibot[bot],False,llm_code_review,OptiBot - excluded not in Zhong et al. list
+moshik-monday-com-ai-reviews[bot],False,llm_code_review,Monday.com AI Reviews - excluded not in Zhong et al. list
+pantoaibot[bot],False,llm_code_review,Panto AI - excluded not in Zhong et al. list
+pullpal-ai[bot],False,llm_code_review,PullPal - excluded not in Zhong et al. list
+devloai[bot],False,llm_code_review,Devlo - excluded not in Zhong et al. list
+codenudge[bot],False,llm_code_review,CodeNudge - excluded not in Zhong et al. list
+hyperlint-ai[bot],False,llm_code_review,Hyperlint - excluded not in Zhong et al. list
+sophie-syntax[bot],False,llm_code_review,Sophie Syntax - excluded not in Zhong et al. list
+recurseml[bot],False,llm_code_review,Recurse ML - excluded not in Zhong et al. list
+callstackai[bot],False,llm_code_review,Callstack AI - excluded not in Zhong et al. list
+giselles-ai[bot],False,llm_code_review,Giselles AI - excluded not in Zhong et al. list
+propel-code-bot[bot],False,llm_code_review,Propel Code Bot - excluded not in Zhong et al. list
+pr-guru[bot],False,llm_code_review,PR Guru - excluded not in Zhong et al. list
+seer-by-sentry[bot],False,llm_code_review,Sentry Seer - excluded not in Zhong et al. list
+github-advanced-security[bot],False,static_analysis,GitHub Advanced Security - rule-based static analysis
+github-actions[bot],False,ci_bot,GitHub Actions - CI/CD infrastructure bot
+codacy-production[bot],False,static_analysis,Codacy - rule-based code quality tool
+codescene-delta-analysis[bot],False,static_analysis,CodeScene - behavioral code analysis tool
+graphite-app[bot],False,pr_management,Graphite - PR stacking and management tool
+qlty-cloud-legacy[bot],False,static_analysis,Qlty legacy - rule-based code quality tool
+qltysh[bot],False,static_analysis,Qlty - rule-based code quality tool
+codecov-ai[bot],False,ci_bot,Codecov - code coverage reporting tool
+aikido-pr-checks[bot],False,static_analysis,Aikido Security - rule-based security scanning
+auto-merge-app-t[bot],False,pr_management,Automated merge bot - no LLM involvement
+failure-enthusiasts[bot],False,ci_bot,CI/test reporting bot
+reviewabot[bot],False,static_analysis,Rule-based review automation bot
+macroscopeapp[bot],False,static_analysis,Code metrics and analysis tool
+codefactor-io[bot],False,static_analysis,CodeFactor - rule-based code quality tool
+pullrequest[bot],False,pr_management,Automated PR management bot
+gstraccini[bot],False,pr_management,Repository management bot
+semgrep-code-assistant-ws[bot],False,static_analysis,Semgrep - rule-based static analysis
+semgrep-code-palisaderesearch[bot],False,static_analysis,Semgrep instance - rule-based static analysis
+semgrep-code-getsentry[bot],False,static_analysis,Semgrep instance - rule-based static analysis
+semgrep-code-zeta-chain[bot],False,static_analysis,Semgrep instance - rule-based static analysis
+hound[bot],False,static_analysis,Hound - rule-based style checking bot
+secure-code-warrior-for-github[bot],False,static_analysis,Secure Code Warrior - security training tool
+vercel[bot],False,ci_bot,Vercel - deployment and preview bot
+starrocks-cr[bot],False,ci_bot,Project-specific CI bot for StarRocks
+abaplint[bot],False,static_analysis,ABAP linter - rule-based SAP ABAP code analysis
+corgea[bot],False,static_analysis,Corgea - security vulnerability scanning
+orca-security-us[bot],False,static_analysis,Orca Security - cloud security scanning tool
+wilcoapp[bot],False,pr_management,Wilco - developer training platform
+superninja-beta[bot],False,unknown,Cannot verify LLM-based - excluded conservatively
+dust-agent[bot],False,pr_management,Dust - knowledge management tool
+better-my-code[bot],False,unknown,Cannot verify LLM-based - excluded conservatively
+charliecreates[bot],False,unknown,Cannot verify LLM-based - excluded conservatively
+mesa-dot-dev[bot],False,static_analysis,Mesa - AI code attribution tracking tool
+gitstream-cm[bot],False,pr_management,GitStream - rule-based workflow automation tool
