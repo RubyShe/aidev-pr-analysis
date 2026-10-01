@@ -19,7 +19,7 @@ os.makedirs(os.path.dirname(OUT), exist_ok=True)
 df = pd.read_csv("rq5_outputs/rq5_rate_by_type.csv", index_col=0)
 
 # reliability threshold: bars with n>=40 are solid, else faded
-RELIABLE_N = 40
+RELIABLE_N = 50
 df = df.sort_values("rate_pct", ascending=True)
 labels = [t.replace("_", "\n") for t in df.index]
 rates = df["rate_pct"].values
